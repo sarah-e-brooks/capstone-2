@@ -1,0 +1,13 @@
+proposal for dummy storfront:
+
+1. I will use React and Node as my tech stack for this project.
+
+2. I want this to showcase as much of my full stack skills as I can with this being a dummy storefront. 
+
+3. this project will be a website. 
+
+4. Most businesses have some type of storefront built into their website. My goal is to show my coding skills in a way that would be most relevant to potential businesses/employers. In my dummy site you will be able to browse categories, look up items, add to cart, and leave a review on a product. I will create a checkout page but it will not actually submit any orders since this is not a real storefront. I can add information on how I would go about creating a working checkout page if this were an actual store. 
+
+5. My demographic is whoever is looking for the products sold on the site.
+
+6. I have found a few APIs for dummy stores, but I am also considering making my own API to make sure I have all the information that I want. I want each item to have an id, image, category, title, price, description, and possibly reviews.
